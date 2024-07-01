@@ -44,7 +44,7 @@ button {
 input{
     padding: 5px;
     overflow: hidden;
-    inline:none;
+    outline:none;
     background-color: rgb(211, 209, 209);
     border: none;
 }
