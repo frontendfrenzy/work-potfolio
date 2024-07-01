@@ -29,7 +29,8 @@ header .logo{
 .icon-text{
     border: 2px solid rgb(168, 167, 167);
     padding: 11px;
-    display: inline-block;
+    display: flex;
+    flex-direction:row;
     background-color: rgb(211, 209, 209);
     border-radius: 10px;
 }
