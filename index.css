@@ -415,7 +415,7 @@ input[type="checkbox"]{
         width:150vw;
     }
     .log{
-        transform: translateX(90%);
+        transform: translateX(120%);
     }
    .icon-text{
     display: none;
