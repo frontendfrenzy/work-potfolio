@@ -411,6 +411,9 @@ input[type="checkbox"]{
     display: none;
 }
 @media(max-width:600px){
+    .home-page{
+        width:50%;
+    }
    .icon-text{
     display: none;
    }
