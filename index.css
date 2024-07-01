@@ -451,9 +451,6 @@ input[type="checkbox"]{
    .img-content-two{
     transform: translateX(-10%);
    }
-    .ceneter{
-        transform: translateX(20%);
-    }
 }
 @media(max-width:768px){
     .icon-text{
